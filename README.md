@@ -127,4 +127,3 @@ This project is private and proprietary.
 ---
 
 Made with ❤️ using Flutter
-
